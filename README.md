@@ -1,2 +1,2 @@
 # nodejsStudy
-Studying and testing nodejs
+NodeJS 학습 Repository
