@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/feuziq47/nodejsStudy#readme",
   "dependencies": {
-    "sanitize-html": "^1.22.0"
+    "sanitize-html": "^2.3.2"
   }
 }
